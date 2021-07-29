@@ -20,11 +20,42 @@
 
 width: 1000px;
 height: 186px;
-background-color: white;
-opacity: 10%;
+background-color: rgba(255, 255, 255, 0.1);
 margin: auto;
+color: white;
+font-weight: bold;
+font-size: 20px;
 
 }
+
+
+button {
+
+
+background: linear-gradient(to right, #FFFFFF  10%, #00269E  100%);
+border: none;
+text-align: center;
+color: #00269E;
+font-size: 20px;
+padding: 12px 25px;
+cursor: pointer;
+
+
+   
+ }
+
+
+
+
+ #btncontainer {
+
+    margin: auto;
+    width: auto;
+    display: flex;
+ }
+
+
+
 
 
 
