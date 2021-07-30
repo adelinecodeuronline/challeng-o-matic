@@ -10,6 +10,10 @@ var support = [
    'Inventer un concept à intégrer' ,
    'Concevoir une illustration' ,
    'Imaginer un UI kit' ,
+   'Designer une identité visuelle' ,
+   'Designer et coder un site web' ,
+   'Créer une newsletter' ,
+
   
   
        
@@ -28,6 +32,8 @@ var support = [
    ' au sujet d\'un service de garde de chats multicolores ' ,
    ' possédant le thème de la téléportation ' ,
    ' au sujet de produits invisibles ' ,
+   ' ayant pour thème les voitures caméléons' ,
+   ' vantant les bénéfices de ne jamais dormir' ,
 
      
         
@@ -42,6 +48,12 @@ var support = [
    ', à finir en un mois' ,
    ', à terminer en deux heures' ,
    ', à effectuer en un week-end' ,
+   ', à réaliser en trois jours' ,
+   ', à créer en une soirée' ,
+   ', à faire en deux semaines' ,
+   ', à finir en un temps indéterminé' ,
+   ', à terminer hier' ,
+   ', à effectuer pour demain' ,
    
      
         
