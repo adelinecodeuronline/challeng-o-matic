@@ -1,4 +1,4 @@
-@media (max-width: 1400px) {
+@media (min-width: 800px) {
 
 
     body {
@@ -21,10 +21,11 @@
 
     #challenges {
 
-width: 800px;
-height: 150px;
+width: 850px;
+height: 100px;
 background-color: rgba(255, 255, 255, 0.1);
 margin: auto;
+margin-top: 20px;
 color: white;
 font-size: 20px;
 
@@ -42,7 +43,7 @@ font-size: 20px;
 padding: 12px 25px;
 cursor: pointer;
 margin: auto;
-margin-top: 20px;
+margin-top: 25px;
 
 
    

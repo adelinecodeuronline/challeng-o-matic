@@ -5,6 +5,11 @@ var support = [
    'Designer et coder une application hybride' ,
    'Designer un flyer' ,
    'Designer une carte de visite' ,
+   'Créer un logo' ,
+   'Développer un concept visuel' ,
+   'Inventer un concept à intégrer' ,
+   'Concevoir une illustration' ,
+   'Imaginer un UI kit' ,
   
   
        
@@ -18,6 +23,11 @@ var support = [
     ' au sujet de sushis de licorne' ,
    ' ayant pour thème la soupe froide à la banane' ,
    ' vantant les vertues de la carotte' ,
+   ' à propos d\'algues radioactives' ,
+   ' mettant en avant les transports en soucoupe volante' ,
+   ' au sujet d\'un service de garde de chats multicolores ' ,
+   ' possédant le thème de la téléportation ' ,
+   ' au sujet de produits invisibles ' ,
 
      
         
@@ -29,6 +39,9 @@ var support = [
     ', à réaliser en deux mois' ,
    ', à créer en une journée' ,
    ', à faire en une semaine' ,
+   ', à finir en un mois' ,
+   ', à terminer en deux heures' ,
+   ', à effectuer en un week-end' ,
    
      
         
@@ -45,6 +58,10 @@ var support = [
    
    
    document.getElementById('challenges').innerHTML = support[randomNumber] + theme[randomNumber2] + temps[randomNumber3];
+   document.getElementById('challenges').style.textAlign = "center";
+   document.getElementById('challenges').style.paddingTop = "80px";
+  
+ 
        
        }
    
