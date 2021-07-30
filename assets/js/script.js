@@ -70,7 +70,7 @@ var support = [
    ', à terminer hier' ,
    ', à effectuer pour demain' ,
    ', à faire durant une pleine lune' ,
-   ', à faire sans dépasser quinze minutes pendant trois jours'
+   ', à faire lorsque le soleil est au zénith'
    
      
    ]
