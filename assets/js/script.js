@@ -13,6 +13,16 @@ var support = [
    'Designer une identité visuelle' ,
    'Designer et coder un site web' ,
    'Créer une newsletter' ,
+   'Designer une interface d\'application' ,
+   'Créer une page de contact' ,
+   'Développer un menu full screen' ,
+   'Imaginer un item splash screen' ,
+   'Coder un site web responsive tablette' ,
+   'Coder un site web responsive smartphone' ,
+   'Concevoir une page de login/sign-up' ,
+   'Développer des éléments drag&drop' ,
+   'Créer une illustration à animer en css' ,
+
 
   
   
@@ -34,6 +44,8 @@ var support = [
    ' au sujet de produits invisibles ' ,
    ' ayant pour thème les voitures caméléons' ,
    ' vantant les bénéfices de ne jamais dormir' ,
+   ' à propos d\'un parti politique philantrope' ,
+   ' mettant en avant un nouveau langage de programmation' ,
 
      
         
@@ -54,6 +66,7 @@ var support = [
    ', à finir en un temps indéterminé' ,
    ', à terminer hier' ,
    ', à effectuer pour demain' ,
+   ', à faire durant une pleine lune' ,
    
      
         
