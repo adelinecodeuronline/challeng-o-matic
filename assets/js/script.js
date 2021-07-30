@@ -1,6 +1,6 @@
 var support = [
     
-    'Designer et coder une landing page' ,
+   'Designer et coder une landing page' ,
    'Designer une landing page' ,
    'Designer et coder une application hybride' ,
    'Designer un flyer' ,
@@ -22,6 +22,8 @@ var support = [
    'Concevoir une page de login/sign-up' ,
    'Développer des éléments drag&drop' ,
    'Créer une illustration à animer en css' ,
+   'Créer une animation 3D exclusivement en css,'
+
 
 
   
@@ -46,6 +48,7 @@ var support = [
    ' vantant les bénéfices de ne jamais dormir' ,
    ' à propos d\'un parti politique philantrope' ,
    ' mettant en avant un nouveau langage de programmation' ,
+   ' au sujet des bienfaits du dentifrice sucré ',
 
      
         
@@ -67,11 +70,10 @@ var support = [
    ', à terminer hier' ,
    ', à effectuer pour demain' ,
    ', à faire durant une pleine lune' ,
+   ', à faire pendant une semaine sans dépasser quinze minutes par jour'
    
      
-        
    ]
-   
    
    
    
