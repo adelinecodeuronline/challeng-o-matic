@@ -1,6 +1,67 @@
 @media (max-width: 800px) {
 
 
+    body {
+
+        background-color: #00269E;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 16px;
+        margin: 0;
+          }
+        
+        
+        img {
+            width: 350px;
+           height: auto;
+           display: block;
+           margin: auto;
+           margin-top: 50px;
+        }
+
+
+    #challenges {
+
+width: 280px;
+height: 250px;
+background-color: rgba(255, 255, 255, 0.1);
+margin: auto;
+margin-top: 20px;
+color: white;
+font-size: 20px;
+
+}
+
+
+button {
+
+display: block;
+background: linear-gradient(to right, #D87FFD  10%, #00269E  100%);
+border: none;
+text-align: center;
+color: #00269E;
+font-size: 20px;
+padding: 12px 25px;
+cursor: pointer;
+margin: auto;
+margin-top: 25px;
+
+
+   
+ }
+
+
+
+
+ #btncontainer {
+
+    margin: auto;
+    width: auto;
+    display: flex;
+ }
+
+
+
+
    
 
 
